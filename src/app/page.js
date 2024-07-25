@@ -4,7 +4,7 @@ import { BsFillTelephoneFill } from "react-icons/bs";
 import { GiRotaryPhone } from "react-icons/gi";
 import Tooltip from "@/Componnent/Tooltip";
 import CyrcleImg from "@/Componnent/CyrcleImg";
-import Footer from "@/Componnent/footer";
+import Footer from "@/Componnent/Footer";
 
 export default function Home() {
   return (
@@ -73,7 +73,7 @@ export default function Home() {
       <div className="bg-blue-600 p-10 rounded-md mt-10 flex flex-col">
         <Footer />
       </div>
-
+  
       <div className='sticky mx-auto flex bottom-0 w-full lg:hidden text-center animate-bounce justify-center'>
         <div className=" bg-green-600  flex items-center px-5 rounded-md">
           <BsFillTelephoneFill className="text-white text-3xl " />
