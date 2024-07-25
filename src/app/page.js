@@ -36,7 +36,7 @@ export default function Home() {
           </p>
 
         </div>
-        <div>
+        <div className="my-10">
           <CyrcleImg />
         </div>
         <h2 className="text-2xl  font-bold p-4">اهمیت داربست در تهران و کرج</h2>
@@ -69,30 +69,22 @@ export default function Home() {
         </p>
 
       </div>
+
+      <div className="bg-blue-600 p-10 rounded-md mt-10 flex flex-col">
+        <Footer />
+      </div>
+
       <div className='sticky mx-auto flex bottom-0 w-full lg:hidden text-center animate-bounce justify-center'>
-        <div className=" bg-blue-600  flex items-center px-5">
+        <div className=" bg-green-600  flex items-center px-5 rounded-md">
           <BsFillTelephoneFill className="text-white text-3xl " />
           <Link href='tel:09121204958' className=' mx-auto  p-5 text-center   rounded-lg text-white text-4xl hover:bg-blue-800 transition-all'>تماس فوری </Link>
         </div>
 
       </div>
-      <div className="bg-blue-600 p-10 rounded-md mt-10 flex flex-col">
-        <Footer />
-      </div>
-     
 
 
-
-
-
-
-
-
-
-
-
-      <div className="bottom-0 left-10 lg:flex justify-end hidden relative">
-        <span className="tooltip text-7xl border-dashed border-2 text-blue-600 p-3 border-blue-800 rounded-full animate-pulse hover:animate-none">
+      <div className="bottom-0 left-10 lg:flex justify-end hidden  sticky">
+        <span className="tooltip text-7xl border-dashed border-2 text-blue-900 p-3 border-blue-800 rounded-full animate-pulse hover:animate-none">
           <GiRotaryPhone />
           <span className="tooltiptext text-sm">09121204958</span>
         </span>
