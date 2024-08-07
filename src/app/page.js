@@ -5,10 +5,19 @@ import { GiRotaryPhone } from "react-icons/gi";
 import Tooltip from "@/Componnent/Tooltip";
 import CyrcleImg from "@/Componnent/CyrcleImg";
 import Footer from "@/Componnent/Footer";
-
+import Head from 'next/head';
 export default function Home() {
   return (
     <div>
+
+      <Head>
+        <title>09121081721|داربست فلزی  صابر | خدمات داربست در تمامی نقاط تهران و کرج</title>
+        <meta name="description" content="داربست فلزی و کفراژ صابر با بیش از 30 سال سابقه در تهران و شهرهای اطراف آماده ارائه خدمات با کیفیت و قیمت مناسب می‌باشد. برای کسب اطلاعات بیشتر تماس بگیرید." />
+        <meta name="keywords" content="داربست , داربست در تهران , داربست فلزی , داربست بنر , داربست تبلیغاتی , داربست ساختمان , داربست ایستگاه صلواتی" />
+        <meta name="author" content="Ehsan Madadi" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charSet="UTF-8" />
+      </Head>
 
       <div className="flex justify-center sticky top-0 bg-white p-3">
         <div>
@@ -73,11 +82,11 @@ export default function Home() {
       <div className="bg-blue-600 p-10 rounded-md mt-10 flex flex-col">
         <Footer />
       </div>
-  
+
       <div className='sticky mx-auto flex bottom-0 w-full lg:hidden text-center animate-bounce justify-center'>
         <div className=" bg-green-600  flex items-center px-5 rounded-md">
           <BsFillTelephoneFill className="text-white text-3xl " />
-          <Link href='tel:09121204958' className=' mx-auto  p-5 text-center   rounded-lg text-white text-4xl hover:bg-blue-800 transition-all'>تماس فوری </Link>
+          <Link href='tel:09121204958' className=' mx-auto  p-5 text-center   rounded-lg text-white text-4xl hover:bg-green-800 transition-all'>تماس فوری </Link>
         </div>
 
       </div>
