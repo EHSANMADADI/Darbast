@@ -20,7 +20,8 @@
   padding: 20px;
   position: absolute;
   z-index: 1;
-  bottom: 125%; /* موقعیت Tooltip */
+  bottom: 100%; /* موقعیت Tooltip */
+
   left: 50%;
   margin-left: -60px;
   opacity: 0;
@@ -30,4 +31,12 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+
+.bg-photo1{
+  width:100%;
+  background-image: url("../../public/images/2.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-position: center; */
 }

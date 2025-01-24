@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.yourwebsite.com
+Host: https://www.darbastsaber.ir
 
 # Sitemaps
-Sitemap: https://www.yourwebsite.com/sitemap.xml
+Sitemap: https://www.darbastsaber.ir/sitemap.xml
