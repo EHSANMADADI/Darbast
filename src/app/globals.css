@@ -40,3 +40,18 @@
   background-repeat: no-repeat;
   /* background-position: center; */
 }
+
+@font-face {
+  font-family: 'Iransans';
+  src: url('/Font/IranianSansRegular.ttf') format('ttf'),
+       url('/Font/IRANSans-web.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.fontIranSans{
+  font-family:Iransans;
+}
+body{
+  font-family:Iransans;
+}

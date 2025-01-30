@@ -10,7 +10,7 @@ export default function Header() {
      const [isMenuOpen, setIsMenuOpen] = useState(false)
 
      return (
-          <div className="flex-col  sticky top-0 bg-gray-100 border-b p-3 z-50">
+          <div className="flex-col  sticky top-0 bg-gray-100 fontIranSans border-b p-3 z-50">
                <div className="flex justify-around items-center py-2">
                     {!isMenuOpen && <div onClick={() => {
                          setIsMenuOpen(!isMenuOpen)
