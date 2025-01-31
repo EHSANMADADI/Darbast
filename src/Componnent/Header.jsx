@@ -51,8 +51,8 @@ export default function Header() {
                                    </Link>
                               </li>
                               <li>
-                                   <div className='sticky mx-auto flex bottom-0 w-full lg:hidden text-center  justify-center hover:bg-green-800'>
-                                        <div className=" bg-green-600  flex items-center px-5">
+                                   <div className='sticky mx-auto flex bottom-0 w-full lg:hidden text-center  justify-center '>
+                                        <div className=" bg-green-600 hover:bg-green-500 duration-200  flex items-center px-5">
                                              <BsFillTelephoneFill className="text-white text-3xl " />
                                              <Link href='tel:09121204958' className=' mx-auto  p-5 text-center   rounded-lg text-white text-4xl  transition-all'>تماس فوری </Link>
                                         </div>

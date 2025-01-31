@@ -3,11 +3,9 @@ import Image from "next/image";
 import Link from 'next/link';
 import { BsFillTelephoneFill } from "react-icons/bs";
 import { GiRotaryPhone } from "react-icons/gi";
-import Tooltip from "@/Componnent/Tooltip";
 import Footer from "@/Componnent/Footer";
 import Head from 'next/head';
 import FerstPageArticle from "@/Componnent/FerstPageArticle";
-import { useState } from 'react'
 import Header from "@/Componnent/Header";
 export default function Home() {
   return (
