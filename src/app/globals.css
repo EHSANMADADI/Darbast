@@ -41,6 +41,13 @@
   /* background-position: center; */
 }
 
+.bg-photo2{
+  width:100%;
+  background-image: url("../../public/images/3.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+}
 @font-face {
   font-family: 'Iransans';
   src: url('/Font/IranianSansRegular.ttf') format('ttf'),

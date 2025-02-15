@@ -13,7 +13,7 @@ export default function ItemsComponents({
      return (
           <div
 
-               className="flex z-10 flex-col cursor-pointer justify-between  w-[22rem] overflow-hidden  bg-white border border-gray-200 rounded-tl-3xl rounded-tr-3xl shadow mb-5 hover:border-blue-700 hover:border-2 duration-100"
+               className="flex z-10 flex-col cursor-pointer justify-between items-center  w-[22rem] overflow-hidden  bg-white border border-gray-200 rounded-tl-3xl rounded-tr-3xl shadow mb-5 hover:border-blue-700 hover:border-2 duration-100"
 
           >
                <Link href={link}>

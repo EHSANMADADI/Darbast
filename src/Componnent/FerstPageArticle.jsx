@@ -6,7 +6,7 @@ export default function FerstPageArticle() {
      <div className="container mx-auto w-4/5 mt-16 h-full overflow-hidden">
         <p className='leading-8  text-lg '>داربست فلزی و کفراژ صابر با 30 سال سابقه در تمامی نقاط تهران و شهر های اطراف آن  آماده ارائه خدمات با بالاترین کیفیت و نازل ترین قیمت  در سطح شهر تهران و شهرستان های اطراف آن به شما عزیزان میباشد</p>
         <p className="leading-8  text-lg">نصب داربست ایمن  با نازل ترین قیمت و بالاترین کیفیت را از ما بخواهید. </p>
-        <p className="leading-8 text-2xl font-black my-5 text-blue-800">برای کسب اطلاعات بیشتر با ما تماس بگیرید:09121204958</p>
+        <p className="leading-8 text-2xl font-black my-5 text-blue-800">برای کسب اطلاعات بیشتر با ما تماس بگیرید:09121081721</p>
         <div className="border-b-2 text-lg pb-5"></div>
 
         <div>
@@ -39,7 +39,7 @@ export default function FerstPageArticle() {
           ما در شهر های تهران ,کرج و شهر های حومه آماده ارائه خدمات به هموطنان عزیز هستیم
         </p>
         <p className="text-lg my-2 text-blue-600 border-b-2">
-          شما میتوانید برای دریافت مشاوره واطلاعات بیشتر با شماره تلفن  09121204958  تماس حاصل نمایید
+          شما میتوانید برای دریافت مشاوره واطلاعات بیشتر با شماره تلفن  09121081721  تماس حاصل نمایید
         </p>
 
         <h2 className="text-2xl  font-bold p-4">نکات ایمنی در استفاده از داربست</h2>

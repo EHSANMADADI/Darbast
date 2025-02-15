@@ -54,7 +54,7 @@ export default function Header() {
                                    <div className='sticky mx-auto flex bottom-0 w-full lg:hidden text-center  justify-center '>
                                         <div className=" bg-green-600 hover:bg-green-500 duration-200  flex items-center px-5">
                                              <BsFillTelephoneFill className="text-white text-3xl " />
-                                             <Link href='tel:09121204958' className=' mx-auto  p-5 text-center   rounded-lg text-white text-4xl  transition-all'>تماس فوری </Link>
+                                             <Link href='tel:09121081721' className=' mx-auto  p-5 text-center   rounded-lg text-white text-4xl  transition-all'>تماس فوری </Link>
                                         </div>
 
                                    </div>
@@ -63,7 +63,7 @@ export default function Header() {
                     </div>
                </div>
                <div className="flex w-full justify-center items-center border-t border-blue-300 py-5 my-2">
-                    <h2 className='text-xl font-black inline  text-blue-900 pb-2  border-b-black border-b-4'>شماره تماس :09121204958 </h2>
+                    <h2 className='text-xl font-black inline  text-blue-900 pb-2  border-b-black border-b-4'>شماره تماس :09121081721 </h2>
                </div>
           </div>
      )
