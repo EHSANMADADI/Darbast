@@ -4,7 +4,7 @@ import CyrcleImg from "@/Componnent/CyrcleImg";
 export default function FerstPageArticle() {
   return (
      <div className="container mx-auto w-4/5 mt-16 h-full overflow-hidden">
-        <p className='leading-8  text-lg '>داربست فلزی و کفراژ صابر با 30 سال سابقه در تمامی نقاط تهران و شهر های اطراف آن  آماده ارائه خدمات با بالاترین کیفیت و نازل ترین قیمت  در سطح شهر تهران و شهرستان های اطراف آن به شما عزیزان میباشد</p>
+        <p className='leading-8  text-lg '> ما در داربست فلزی و کفراژ تهران با 30 سال سابقه در تمامی نقاط تهران و شهر های اطراف آن  آماده ارائه خدمات با بالاترین کیفیت و نازل ترین قیمت  در سطح شهر تهران و شهرستان های اطراف آن به شما عزیزان میباشیم</p>
         <p className="leading-8  text-lg">نصب داربست ایمن  با نازل ترین قیمت و بالاترین کیفیت را از ما بخواهید. </p>
         <p className="leading-8 text-2xl font-black my-5 text-blue-800">برای کسب اطلاعات بیشتر با ما تماس بگیرید:09121081721</p>
         <div className="border-b-2 text-lg pb-5"></div>

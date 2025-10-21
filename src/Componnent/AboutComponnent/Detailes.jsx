@@ -1,20 +1,20 @@
 import React from 'react'
-import img from '../../../public/images/1.jpg'
+import Image from 'next/image'
 export default function Detailes() {
      return (
           <>
                <div className="lg:w-4/5 p-2 m-2 w-full mx-auto fontIranSans lg:text-xl text-base">
                     <div className="mx-auto">
-                         <img className="w-full rounded-xl  max-h-[26rem]" src='/images/1.jpg' alt='image-darbast' />
+                         <Image width={100} height={100} className="w-full rounded-xl  max-h-[26rem]" src='/images/1.jpg' alt='image-darbast' />
                     </div>
                     <div>
                          <h2 className="text-3xl font-bold m-2">درباره ما:</h2>
                          <p>
-                              <strong className="text-blue-700">داربست صابر</strong>
-                              به عنوان یکی از پیشروان صنعت داربست در تهران، با سال‌ها تجربه و تخصص در زمینه‌ی ارائه خدمات داربست‌بندی، پروژه‌های ساختمانی، صنعتی و عمرانی را با بالاترین استانداردهای ایمنی و کیفیت همراهی می‌کند. ما در داربست صابر با بهره‌گیری از نیروهای مجرب و استفاده از تجهیزات مدرن، آماده‌ی خدمت‌رسانی به مشتریان عزیز در سراسر<strong>تهران</strong> و حومه هستیم
+                              <strong className="text-blue-700"> داربست تهران </strong>
+                              به عنوان یکی از پیشروان صنعت داربست در تهران، با سال‌ها تجربه و تخصص در زمینه‌ی ارائه خدمات داربست‌بندی، پروژه‌های ساختمانی، صنعتی و عمرانی را با بالاترین استانداردهای ایمنی و کیفیت همراهی می‌کند. ما در داربست تهران  با بهره‌گیری از نیروهای مجرب و استفاده از تجهیزات مدرن، آماده‌ی خدمت‌رسانی به مشتریان عزیز در سراسر<strong>تهران</strong> و حومه هستیم
                          </p>
 
-                         <h2 className="text-3xl font-bold m-2">چرا داربست صابر؟</h2>
+                         <h2 className="text-3xl font-bold m-2">چرا داربست تهران</h2>
                          <p>
                               <strong>خدمات گسترده </strong>
                               <span>

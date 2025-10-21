@@ -4,6 +4,7 @@ import Footer from "@/Componnent/Footer"
 export default function page() {
   return (
     <>
+    
       <Header />
       <div className='md:w-2/3 mx-auto w-full p-1'>
         <h1 className='font-bold text-3xl italic p-3 my-5'>

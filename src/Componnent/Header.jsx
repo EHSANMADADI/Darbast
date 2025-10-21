@@ -20,7 +20,7 @@ export default function Header() {
                     </div>}
 
                     <div>
-                         <h1 className='sm:text-5xl font-black text-2xl  sm:font-medium p-2 my-3'>داربست فلزی و کفراژ صابر</h1>
+                         <h1 className='sm:text-5xl font-black text-2xl  sm:font-medium p-2 my-3'>داربست فلزی و کفراژ در تهران</h1>
                     </div>
 
 
