@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>09121081721|داربست فلزی  صابر | خدمات داربست در تمامی نقاط تهران و کرج</title>
+        <title>09121081721|داربست فلزی  تهران | خدمات داربست در تمامی نقاط تهران و کرج</title>
         <meta name="description" content="خدمات داربست تهران با کیفیت بالا و قیمت مناسب. اجاره و نصب داربست فلزی در تهران و حومه. برای مشاوره رایگان تماس بگیرید" />
         <meta name="keywords" content="داربست , داربست در تهران ,داربست در شهر ری ,داربست تهران, داربست فلزی ,بنر, لوله داربست,انجام داربست در تهران, داربست بنر , داربست تبلیغاتی ,داربست غرب تهران,داربست جنوب تهران,داربست شمال تهران,داربست مرکز تهران,داربست  شهر ری, داربست ساختمان , داربست ایستگاه صلواتی" />
         <meta name="author" content="Ehsan Madadi" />
@@ -24,7 +24,7 @@ export default function Home() {
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-        <link rel="canonical" href="https://darbastsaber.com/" />
+        <link rel="canonical" href="https://www.darbasttehran.com/" />
       </Head>
 
       <Header />
