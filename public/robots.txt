@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://darbastsaber.com
+Host: https://www.darbasttehran.com/
 
 # Sitemaps
-Sitemap: https://darbastsaber.com/sitemap.xml
+Sitemap: https://www.darbasttehran.com/sitemap.xml
